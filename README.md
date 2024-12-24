@@ -29,6 +29,7 @@ Before running the project, ensure you have:
 3. Must reinstall node_modules folder, in /server .
 4. Must recreate config.env file, with your on MongoDB connection string EX:
     ATLAS_URI=mongodb+srv://<username>:<password>@<cluster>.<projectId>.mongodb.net/employeesretryWrites=true&w=majority
+   
     PORT=5050
 
 ### Reference 
