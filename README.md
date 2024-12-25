@@ -27,7 +27,7 @@ Before running the project, ensure you have:
    ```bash
    git clone https://github.com/DeveloperJuanR/MongoDB-MERN-repo.git
 3. Must reinstall node_modules folder, in /server .
-4. Must recreate config.env file, with your on MongoDB connection string EX:
+4. Must recreate config.env file, with your own MongoDB connection string EX:
    
     ATLAS_URI=mongodb+srv://<username>:<password>@<cluster>.<projectId>.mongodb.net/employeesretryWrites=true&w=majority
    
